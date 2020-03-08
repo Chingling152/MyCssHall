@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    font-family: 'Segoe UI', Helvetica, sans-serif;
+}
+
+h1{
+    font-size:80px;
+    text-align: center;
+    font-weight: 200;
+}
+
+.main-subtitle{
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    color: darkgrey;
+}
+
+.main-subtitle .important{
+    color:#2a61a7;
+    font-weight: 400;
+}
